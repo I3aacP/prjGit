@@ -4,10 +4,10 @@ Proyecto para aprender Git
 
     - git init
     - git add .
-    - git commit -m "mensaje"
-    - git config user.name
-    - git config user.email
-    - git 
+    - git commit -m "mensaje"   -> Respaldo de lo add
+    - git config user.name      -> Verificar usuario
+    - git config user.email     -> Verificar email
+    - git branch -m main        -> Cambiar el nombre de la rama maestra a main
 
 Proyecto para aprender Linux
 
