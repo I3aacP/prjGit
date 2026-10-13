@@ -65,4 +65,4 @@ Ramas de Github
     -feature    -> Mejoras Generales (Ejemplo: Login, Funciones, etc).
     -release    -> unión de feature's (Para versiones nuevas que tienen como destino main)
     -hotflix    -> Reparación de Errores (Para feature's con errores)
-    -issue      -> Reparación de errores menos urgentes
+    -issue      -> Reparación de errores menos urgentes (Errores de compilacion - arreglables)
